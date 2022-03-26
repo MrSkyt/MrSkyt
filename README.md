@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @MrSkyt
-- 👀 Java & Lua & CSS Developer
-- 🌱 Founder of http://avenger.cloud CHEAP HOSTING
 - 📫 contact: sky222@avenger.cloud (mail) & sky222#0001 (discord)
